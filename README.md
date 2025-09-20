@@ -1,6 +1,6 @@
 ---
 title: Finnish Lemmatizer
-emoji: 🇫🇮
+emoji: 🇫🔍
 colorFrom: blue
 colorTo: green
 sdk: gradio

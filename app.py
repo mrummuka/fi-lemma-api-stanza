@@ -178,7 +178,7 @@ def run_test_cases() -> str:
 # Create Gradio interface with multiple tabs
 with gr.Blocks(title="Finnish Lemmatizer", theme=gr.themes.Soft()) as demo:
     gr.Markdown("""
-    # 🇫🇮 Finnish Lemmatization API
+    # Finnish Lemmatization API
     
     High-quality Finnish lemmatization using Stanford's Stanza neural NLP library.
     
